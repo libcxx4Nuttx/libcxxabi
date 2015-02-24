@@ -1,7 +1,7 @@
 #===============================================================================
 # Setup Project
 #===============================================================================
-
+# Nothing has been done with this project yet 
 cmake_minimum_required(VERSION 2.8.8)
 
 if(POLICY CMP0042)
